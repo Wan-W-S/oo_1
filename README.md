@@ -31,5 +31,8 @@
 
 [高科大](https://www.nkust.edu.tw)
 
+|Center Aligned||Center Aligned||Center Aligned|
 
-:hamster:
+|:------||:------||:------|
+
+|12||123||1234|

@@ -51,7 +51,6 @@
 隱私權:遵守個人資料使用規範
 4.	畫出 使用案例圖 (use case diagram)
 
-<https://github.com/Wan-W-S/oo_1/blob/master/image.png?Lang=zh-tw>
 
 ![nkust](image.png "image")
 

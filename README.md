@@ -52,7 +52,7 @@
 4.	畫出 使用案例圖 (use case diagram)
 
 <https://github.com/Wan-W-S/oo_1/blob/master/image.png?Lang=zh-tw>
-![image](image.png"image")
+![image].(image.png"image")
 5.	由上而下 排出 使用案例的重要性
 模擬試穿作業
 

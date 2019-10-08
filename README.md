@@ -31,9 +31,9 @@
 
 [高科大](https://www.nkust.edu.tw)
 
-|Center Aligned||Center Aligned||Center Aligned|
-|:------||:------:||------:|
-|12||123||1234|
+|Center Aligned|Center Aligned|Center Aligned|
+|:------|:------:|------:|
+|12|123|1234|
 
 ### 1.	專題題目
 身「麗」其「鏡」-AR衣櫃

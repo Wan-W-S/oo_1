@@ -52,7 +52,7 @@
 4.	畫出 使用案例圖 (use case diagram)
 
 
-![nkust](image.png "image")
+![使用案例圖](使用案例圖.png "使用案例圖")
 
 
 5.	由上而下 排出 使用案例的重要性

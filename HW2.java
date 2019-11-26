@@ -12,7 +12,7 @@ class Rectangle implements Shape
     length=l;
     width=w;
   }
-  public void getArea (double)
+  public double getArea ()
   {
     System.out.println("area="+ length*width);
   }
@@ -27,7 +27,7 @@ class Triangle implements Shape
     base=b;
     height=h;
   }
-  public void getArea (double)
+  public double getArea ()
   {
     System.out.println("area="+ base*height/2);
   }

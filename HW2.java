@@ -3,7 +3,7 @@ interface Shape
   abstract void getarea(double);
 }
 
-Class Rectangle implements Shape
+class Rectangle implements Shape
 {
   double length;
   double width;
@@ -18,7 +18,7 @@ Class Rectangle implements Shape
   }
 }
 
-Class Triangle implements Shape
+class Triangle implements Shape
 {
   double base;
   double height;
